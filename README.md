@@ -4,9 +4,17 @@ These Python projects are designed to help you gain practical experience with Py
 
 
  =>CaesarCipher
+
+ 
 	=> Number Guessing Game
+
+ 
 	=>Black Jack Game
+
+ 
 	=> Calculator
+
+ 
 	=> Snake Game
 	
  
